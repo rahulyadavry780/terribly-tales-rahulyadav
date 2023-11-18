@@ -1,0 +1,75 @@
+.l1 {
+    display: flex;
+    text-decoration: none;
+    margin: 13px;
+    padding: 14px;
+    text-align: center;
+}
+
+#container .nav1 {
+    align-items: center;
+    justify-content: center;
+}
+.str1 {
+    margin-top: 10px;
+    color:rgb(182, 167, 10);
+    list-style: none;
+    display: inline; /* Optional: Keeps the element inline */
+    margin-right: 10px; /* Adjust as needed */
+  }
+.img{
+    margin-right: 5px;
+}
+
+  
+
+.str {
+    margin-top: 10px;
+    list-style: none;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 1100px;
+    
+}
+
+.btn {
+    margin-top: 10px;
+    height: 25px;
+    width: 110px;
+    margin-left: 20px;
+    background-color: yellow;
+    border-radius: 5px;
+
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+  }
+
+  #container{
+    background-color: black;
+  }
+  /* to make responsive website */
+  @media (max-width: 788px) {
+    .l1 {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .str1,
+    .str {
+      margin-top: 10px;
+      margin-left: 0;
+    }
+  
+    .btn {
+      margin-top: 10px;
+      margin-left: 0;
+    }
+  }
+  .img2{
+    width:1515px;
+    vertical-align: top;
+    max-width: 100%; 
+    height: 500px; 
+  }

@@ -1,0 +1,101 @@
+.c1{
+    display:flex;
+}
+.likeimg{
+  margin-left: 1443px;
+  margin-top: -55px;
+  margin-right: 10px;
+  /* font-size: small; */
+  width: 100%;
+  /* color: blue; */
+}
+
+
+.likeimg1{
+  margin-left: 1443px;
+  margin-top: -55px;
+  margin-right: 10px;
+  /* font-size: small; */
+  width: 100%;
+  /* color: blue; */
+
+}
+.likeimg2{
+  margin-left: 1443px;
+  margin-top: -55px;
+  margin-right: 10px;
+  /* font-size: small; */
+  width: 100%;
+  /* color: blue; */
+
+}
+.likeimg3{
+  margin-left: 1443px;
+  margin-top: -55px;
+  margin-right: 10px;
+  /* font-size: small; */
+  width: 100%;
+  /* color: blue; */
+
+}
+
+.c2{
+    margin-left: 50px;
+}
+ 
+  
+element.style {
+}
+@media (max-width: 800px){
+
+
+.likeimg, .likeimg1, .likeimg2, .likeimg3 {
+    max-width: 5%;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+}
+.body1{
+    margin-left: 50px;
+}
+.q1{
+    color:aqua;
+    
+}
+.q2{
+    margin-left: 20px;
+}
+/* to make responsive */
+.c1 {
+  display: flex;
+  flex-wrap: wrap; /* Allow flex items to wrap to the next line on smaller screens */
+}
+
+/* .likeimg,
+.likeimg1,
+.likeimg2,
+.likeimg3 {
+  margin-left: 10px; 
+} */
+
+.c2 {
+  margin-left: 10px; /* Adjust the margin for better spacing on smaller screens */
+}
+
+/* @media (max-width: 600px) {
+  .likeimg,
+  .likeimg1,
+  .likeimg2,
+  .likeimg3 {
+    max-width: 100%; 
+    margin-left: 0; 
+  } */
+
+  .c2,
+  .body1,
+  .q2 {
+    margin-left: 10px; /* Adjust the margin for better spacing on smaller screens */
+  }
+
+
+  
