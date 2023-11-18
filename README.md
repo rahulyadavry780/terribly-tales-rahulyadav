@@ -39,6 +39,14 @@ Dependencies and library of the Assignment :
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   }
+  ###
+  Profile:
+   "profile":{
+   "company-name": "Teriblly-Tiny-Tales",
+   "company-CEO":"Anuj Gosalia",
+   "Age":   38,
+   "Started" : 2013
+  }
   ####
   Website Link:
    I have used netlify for the deployment of the website:
