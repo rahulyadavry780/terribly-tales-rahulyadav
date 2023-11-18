@@ -15,16 +15,16 @@ Created a image folder for all the images
 Header.js :
  i have imported number of images as well as  with the help of event listners like onClick in buttons created a function 
 with the help of useState hook to increase the value when clicked on button.
-#######
+#####
 Link :
 provided instagram link of the CEO and also used <hr> tag to identify separate content
-############
+###
 Body.js :
 In the Body.js file i have written the separate content of the website on topics
-############
+#####
 Footer.js :
 In the Footer section just ended with the tag name
-###############
+####
 Dependencies and library of the Assignment:------
 "deDependencies and library of the Assignmentpendencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -37,7 +37,7 @@ Dependencies and library of the Assignment:------
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   }
-  ###########
+  ###
   Website Link
    I have used netlify for the deployment of the website;
   https://terribly-tinytales-byrahulyadav1.netlify.app/
