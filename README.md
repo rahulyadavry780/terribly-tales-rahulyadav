@@ -1,6 +1,7 @@
 # Terriblt-tales-rahulyadav
 
-##Creation of Navbar :
+##
+Creation of Navbar :
 First of all i have created a file name-Main.js in which i have created navbar as well as i have added a bridge image just below the navbar
 ###Components : 
 After that, i have created separate component for the main section of the website  in which it contians Header.js,Body.js,Footer.js and also there
