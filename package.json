@@ -13,6 +13,12 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "profile":{
+   "company-name": "Teriblly-Tiny-Tales",
+   "company-CEO":"Anuj Gosalia",
+    "Age": 38,
+    "Started": 2013
+  },
   "scripts": {
     "rahul": "react-scripts start",
     "build": "react-scripts build",
