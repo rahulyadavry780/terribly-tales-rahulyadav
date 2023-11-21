@@ -50,4 +50,4 @@ Dependencies and library of the Assignment :
   ####
   Website Link:
    I have used netlify for the deployment of the website:
-  https://terribly-tinytales-byrahulyadav1.netlify.app/
+  https://tiny-terrible-talesbyrahulyadav.netlify.app/
